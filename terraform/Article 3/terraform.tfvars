@@ -1,5 +1,5 @@
 aws_region      =   "us-east-2"
-aws_access_key  =   "AKIA5VOD3KMI7M57BT4Y"
-aws_secret_key  =   "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"
+aws_access_key  =   "****"
+aws_secret_key  =   "*****"
 subnet_count    =   "1"
 accessing_computer_ip   =   "5.71.165.58"
